@@ -31,3 +31,6 @@ The included data provider use [ra-data-json-server](https://github.com/marmelab
 You'll find an `.env` file at the project root that includes a `VITE_JSON_SERVER_URL` variable. Set it to the URL of your backend. By default, we set it to targets [JSONPlaceholder](https://jsonplaceholder.typicode.com/).
 
 # React Admin DashBord  <h5>Simple CURD users and Posts With DashBoard <h5> 
+
+
+![image](https://github.com/user-attachments/assets/ea1662dc-28cd-4069-9905-fb2d3d2aa847)
